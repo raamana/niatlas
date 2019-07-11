@@ -44,9 +44,9 @@ Prior Art (software)
 ~~~~~~~~~~~~~~~~~~~~~~~
 
  - nilearn ``fetch_{atlas}`` `utilities <https://nilearn.github.io/modules/reference.html#module-nilearn.datasets>`_
- - https://pysurfer.github.io/auto_examples/index.html
- - https://github.com/miykael/parcellation_fragmenter
- - https://github.com/faskowit/multiAtlasTT
+ - visualization tool: https://pysurfer.github.io/auto_examples/index.html
+ - python package: https://github.com/miykael/parcellation_fragmenter
+ - shell scripts https://github.com/faskowit/multiAtlasTT
 
 
 Resources - atlas collections
