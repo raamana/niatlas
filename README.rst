@@ -53,7 +53,8 @@ Resources - atlas collections
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  - Different atlases in MNI space: http://www.lead-dbs.org/helpsupport/knowledge-base/atlasesresources/cortical-atlas-parcellations-mni-space/
- - https://github.com/canlab/Neuroimaging_Pattern_Masks
+ - Different atlases from Thomas Yeo's lab : https://github.com/ThomasYeoLab/CBIG/tree/master/data
+ - Brain signature patterns, atlases of regions, and meta-analysis masks from Tor Wager's lab: https://github.com/canlab/Neuroimaging_Pattern_Masks
 
 
 
