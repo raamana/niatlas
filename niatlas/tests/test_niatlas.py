@@ -6,7 +6,7 @@
 import pytest
 
 
-from niatlas import niatlas
+from niatlas import base
 
 
 @pytest.fixture
