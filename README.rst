@@ -44,6 +44,7 @@ Prior Art (software)
 ~~~~~~~~~~~~~~~~~~~~~~~
 
  - nilearn ``fetch_{atlas}`` `utilities <https://nilearn.github.io/modules/reference.html#module-nilearn.datasets>`_
+ - ` nilabels <https://github.com/nipy/nilabels>`_ :  tools to automate simple manipulations and measurements of medical image segmentations
  - https://pysurfer.github.io/auto_examples/index.html
  - https://github.com/miykael/parcellation_fragmenter
  - https://github.com/faskowit/multiAtlasTT
