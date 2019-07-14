@@ -44,9 +44,10 @@ Prior Art (software)
 ~~~~~~~~~~~~~~~~~~~~~~~
 
  - nilearn ``fetch_{atlas}`` `utilities <https://nilearn.github.io/modules/reference.html#module-nilearn.datasets>`_
- - visualization tool: https://pysurfer.github.io/auto_examples/index.html
- - python package: https://github.com/miykael/parcellation_fragmenter
- - shell scripts https://github.com/faskowit/multiAtlasTT
+ - ` nilabels <https://github.com/nipy/nilabels>`_ :  tools to automate simple manipulations and measurements of medical image segmentations
+ - pysurfer visualization tool: https://pysurfer.github.io/auto_examples/index.html
+ - python package for subparcellation of fsaverage etc: https://github.com/miykael/parcellation_fragmenter
+ - shell scripts to move from atlas space to subject space https://github.com/faskowit/multiAtlasTT
 
 
 Resources - atlas collections
@@ -57,6 +58,4 @@ Resources - atlas collections
     - set 1: https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation
     - set 2: https://github.com/ThomasYeoLab/CBIG/tree/master/data
  - Brain signature patterns, atlases of regions, and meta-analysis masks from Tor Wager's lab: https://github.com/canlab/Neuroimaging_Pattern_Masks
-
-
 
