@@ -57,5 +57,6 @@ Resources - atlas collections
  - Different atlases from Thomas Yeo's lab 
     - set 1: https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/brain_parcellation
     - set 2: https://github.com/ThomasYeoLab/CBIG/tree/master/data
+ - `BALSA (Brain Analysis Library of Spatial maps and Atlases) <https://balsa.wustl.edu/>`_ is a database for hosting and sharing neuroimaging and neuroanatomical datasets for human and primate species.
  - Brain signature patterns, atlases of regions, and meta-analysis masks from Tor Wager's lab: https://github.com/canlab/Neuroimaging_Pattern_Masks
 
