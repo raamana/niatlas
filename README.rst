@@ -45,6 +45,7 @@ Prior Art (software)
 
  - nilearn ``fetch_{atlas}`` `utilities <https://nilearn.github.io/modules/reference.html#module-nilearn.datasets>`_
  - ` nilabels <https://github.com/nipy/nilabels>`_ :  tools to automate simple manipulations and measurements of medical image segmentations
+ - `AtlasReader` to generate coordinate tables and region labels from statistical MRI images : https://github.com/miykael/atlasreader
  - pysurfer visualization tool: https://pysurfer.github.io/auto_examples/index.html
  - python package for subparcellation of fsaverage etc: https://github.com/miykael/parcellation_fragmenter
  - shell scripts to move from atlas space to subject space https://github.com/faskowit/multiAtlasTT
@@ -59,4 +60,3 @@ Resources - atlas collections
     - set 2: https://github.com/ThomasYeoLab/CBIG/tree/master/data
  - `BALSA (Brain Analysis Library of Spatial maps and Atlases) <https://balsa.wustl.edu/>`_ is a database for hosting and sharing neuroimaging and neuroanatomical datasets for human and primate species.
  - Brain signature patterns, atlases of regions, and meta-analysis masks from Tor Wager's lab: https://github.com/canlab/Neuroimaging_Pattern_Masks
-
